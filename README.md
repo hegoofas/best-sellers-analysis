@@ -39,4 +39,5 @@ This project explores book categories and their performance in terms of reviews,
 ---
 
 👨‍💻 **Project by**: Ibrahim Abdulghfar  
-🔗 **LinkedIn Profile**: [www.linkedin.com/in/ibrahim-abdulghfar-a0b13a364](https://www.linkedin.com/in/ibrahim-abdulghfar-a0b13a364)
+
+🔗 **LinkedIn **:[ [www.linkedin.com/in/ibrahim-abdulghfar-a0b13a364](https://www.linkedin.com/in/ibrahim-abdulghfar-a0b13a364)](https://www.linkedin.com/posts/ibrahim-abdulghfar-a0b13a364_dataanalysis-excel-booksales-activity-7346150154833428480-oLc6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFpuyCsBNij9rn_9jYrSPVjIHEViYJtJTQY)
